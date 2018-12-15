@@ -1,9 +1,10 @@
 {
-  "name": "umap2",
+  "name": "umap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.6.2",
+    "@material-ui/icons": "^3.0.1",
     "@types/jest": "23.3.10",
     "@types/node": "10.12.14",
     "@types/react": "16.7.17",
@@ -13,7 +14,9 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-leaflet": "^2.1.2",
+    "react-number-format": "^4.0.5",
     "react-scripts": "2.1.1",
+    "typeface-roboto": "^0.0.54",
     "typescript": "3.2.2",
     "typescript-tslint-plugin": "^0.2.0"
   },

@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "id": "aylesbury",
+      "name": "Aylesbury",
+      "latitude": 51.8156,
+      "longitude": -0.8084,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "bournemouth",
+      "name": "Bournemouth",
+      "latitude": 50.7192,
+      "longitude": -1.8808,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "brighton",
+      "name": "Brighton",
+      "latitude": 50.8225,
+      "longitude": -0.1372,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "bristol",
+      "name": "Bristol",
+      "latitude": 51.4545,
+      "longitude": -2.5879,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "london_borough_of_bromley",
+      "name": "London Borough of Bromley",
+      "latitude": 51.368,
+      "longitude": 0.0701,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "chatham",
+      "name": "Chatham",
+      "latitude": 51.381,
+      "longitude": 0.5221,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "stockport",
+      "name": "Stockport",
+      "latitude": 53.3933,
+      "longitude": -2.1266,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "colchester",
+      "name": "Colchester",
+      "latitude": 51.8959,
+      "longitude": -0.8919,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "coventry",
+      "name": "Coventry",
+      "latitude": 52.4068,
+      "longitude": -1.5197,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "dartford",
+      "name": "Dartford",
+      "latitude": 51.4462,
+      "longitude": 0.2169,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "grays",
+      "name": "Grays",
+      "latitude": 51.4784,
+      "longitude": 0.323,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "kingston_upon_thames",
+      "name": "Kingston upon Thames",
+      "latitude": 51.4123,
+      "longitude": -0.3007,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "leeds",
+      "name": "Leeds",
+      "latitude": 53.8008,
+      "longitude": -1.5491,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "luton",
+      "name": "Luton",
+      "latitude": 51.8787,
+      "longitude": -0.42,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "milton_keynes",
+      "name": "Milton Keynes",
+      "latitude": 52.0406,
+      "longitude": -0.7594,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "peterborough",
+      "name": "Peterborough",
+      "latitude": 52.5695,
+      "longitude": -0.2405,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "portsmouth",
+      "name": "Portsmouth",
+      "latitude": 50.8198,
+      "longitude": -1.088,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "romford",
+      "name": "Romford",
+      "latitude": 51.5771,
+      "longitude": 0.1783,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "manchester",
+      "name": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "southampton",
+      "name": "Southampton",
+      "latitude": 50.9097,
+      "longitude": -1.4044,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "southend_on_sea",
+      "name": "Southend-on-Sea",
+      "latitude": 51.5459,
+      "longitude": 0.7077,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "swindon",
+      "name": "Swindon",
+      "latitude": 51.5558,
+      "longitude": -1.7797,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    },
+    {
+      "id": "waltham",
+      "name": "Waltham",
+      "latitude": 53.5166,
+      "longitude": 0.1,
+      "image": "https://www.holidayextras.co.uk/images/holidayextras-blog/disney-paris-flickr.jpg"
+    }
+  ]
+}
