@@ -3,10 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It uses the following JS libraries and components:
 * yarn is used as package manager but this should work fine with npm.
 * TypeScript as scripting language
-* react-leaflet and leaflet for map
-* Material-UI for presentation components
+* react-leaflet and leaflet for map and map icons
+* Material-UI for presentation components and icons
 * typeface-roboto as default font
 * NumberFormat for field formatting and validation
+
+The provided assets (markers and validations icons) have not been put in use to keep coherent with leaflet and material-ui but they could be integrated without much extra work.
+
+the default url in the data.json have been replaced with https://picsum.photos to generate random images.
 
 While the map will resize nicely with mobile, the form needs a bit of extra work to behave well with a small screen. The current form position doesn't match the constraint of a mobile and should be set in absolute position above or below the map.
 
@@ -28,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `yarn test or npm run test`
 
-Only few tests have been implemented. It will be interested to have some tests running on the form validation.
+Only few tests have been implemented with jest. It will be interested to have some tests running on the form validation.
 
 ### `yarn build or npm run build`
 
