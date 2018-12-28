@@ -18,24 +18,12 @@ const styles = (theme: Theme) =>
   createStyles({
     map: {
       backgroundColor: theme.palette.text.secondary
-    },
-    form: {
-      top: 100,
-      left: 100
     }
   })
-
-interface intMarker {
-  id: string
-  name: string
-  position: L.LatLngExpression
-  image: string
-}
 
 interface UmapProps {
   classes: {
     map: string
-    form: string
   }
   center: L.LatLngExpression
   maxBounds: L.LatLngBounds
@@ -58,7 +46,6 @@ class Umap extends React.Component<UmapProps, UmapState> {
       mapHeight: window.innerHeight,
       mapWidth: window.innerWidth,
       zoom: props.zoom,
-      markers: props.markers || []
     }
     this.resizeMap = this.resizeMap.bind(this)
   }
@@ -91,15 +78,6 @@ class Umap extends React.Component<UmapProps, UmapState> {
     window.removeEventListener('resize', this.resizeMap)
   }
 
-  static getDerivedStateFromProps(nextProps: UmapProps, prevState: UmapState) {
-    if (prevState.markers !== nextProps.markers) {
-      return {
-        markers: nextProps.markers
-      }
-    }
-    return null
-  }
-
   render() {
     return (
       <Map
@@ -117,7 +95,7 @@ class Umap extends React.Component<UmapProps, UmapState> {
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         />
         <ZoomControl position="topright" />
-        <Markers markers={this.state.markers} />
+        <Markers markers={this.props.markers} />
       </Map>
     )
   }

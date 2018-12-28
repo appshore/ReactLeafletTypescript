@@ -7,6 +7,7 @@
     "@material-ui/icons": "^3.0.1",
     "@types/jest": "23.3.10",
     "@types/node": "10.12.14",
+    "@types/object-hash": "^1.2.0",
     "@types/react": "16.7.17",
     "@types/react-dom": "16.0.11",
     "@types/react-leaflet": "^1.1.6",
